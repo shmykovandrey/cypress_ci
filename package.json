@@ -1,0 +1,6 @@
+{
+  "baseUrl":"https://example.cypress.io",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
